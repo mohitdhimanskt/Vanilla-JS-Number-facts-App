@@ -6,4 +6,8 @@ In the following application you'll be making an API call to an external, public
 
 Enjoy!
 
+<<<<<<< HEAD
     Vanilla JS Numbers Facts App - AJAX & Fetch
+=======
+    Vanilla JS Numbers Facts App - AJAX & Fetch
+>>>>>>> dfd78003033ccb7b3bd7871f87e1285287503e7f
